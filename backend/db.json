@@ -1,0 +1,18 @@
+{
+
+    "product":[{
+        "id":1,
+        "name":"masserati",
+        "price":"4.354.654,21$"
+    },{
+        "id":2,
+        "name":"ferrari",
+        "price":"2.784.544,18$"
+    },{
+        "id":3,
+        "name":"rolls roice",
+        "price":"659.356,23$"
+    }]
+
+
+}

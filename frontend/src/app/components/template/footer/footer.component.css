@@ -1,0 +1,9 @@
+.footer{
+    margin-top: 320px;
+    margin-right: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+.footer span{
+    font-weight: 500;
+}
